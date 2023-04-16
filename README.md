@@ -6,10 +6,10 @@
 Sou apaixonado por desenvolvimento web, mobile e suas tecnologias magicas✨
 
 Minha história? <br>
-Atuei no mercado tecnológico por quase 10 anos como suporte em várias softwares house por ai..
+Atuei no mercado tecnológico por quase 10 anos como suporte em várias software house por ai..
 <br><br>
-Iniciei meus estudos em desenvolvimento de software aos 26 anos. Concluí Análise e Desenvolvimento de Sistemas em 2022 <br>
-Também me dedico muito aos estudos por conta própria, sempre com objetivo de me qualificar para enfrentar qualquer desafio. <br>
+Iniciei meus estudos em desenvolvimento de software aos 26 anos. Concluí Análise e Desenvolvimento de Sistemas em 2022. <br>
+Me dedico muito aos estudos por conta própria, sempre com objetivo de me qualificar para enfrentar qualquer desafio. <br>
 Adquiri habilidades com diversas tecnologias, linguagens e frameworks como **Java**, **Spring**, *JavaScript**, **Nodejs**, **PHP**, **Laravel**, **HTML/CSS**, **SQL** e **TypeScript**. Quero ganhar mais profundidade nos quesitos acima e adquirir novos conhecimentos (nunca é demais).
 
 Desenvolvimento não é uma área fácil. Requer entrega, dedicação, paixão e paciência.
